@@ -5,7 +5,7 @@ on:
     types:
       - opened
     branches:
-      - 'two_workflow'
+      - 'main'
 
 jobs:
 
