@@ -2,7 +2,7 @@ name: Go_pull_request
 
 on:
   pull_request:
-    types: [opened , reopened]
+    types: [opened ]
     branches:
       - 'two_workflow'
 
